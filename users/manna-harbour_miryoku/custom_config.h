@@ -5,3 +5,7 @@
 
 #pragma once
 
+#define BILATERAL_COMBINATIONS
+#undef MASTER_LEFT
+#undef MASTER_RIGHT
+#define EE_HANDS
