@@ -9,3 +9,4 @@
 #undef MASTER_LEFT
 #undef MASTER_RIGHT
 #define EE_HANDS
+#define TAPPING_TERM 150
